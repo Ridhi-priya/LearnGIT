@@ -1,2 +1,2 @@
 # LearnGIT
-Learning git from youtube by Gwen (Free code camp)
+Learning git from youtube by Gwenf (Free code camp)
